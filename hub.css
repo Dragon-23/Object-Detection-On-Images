@@ -1,0 +1,36 @@
+body
+{
+    background-size: cover;
+
+}
+
+#object-detection
+{
+ font-size: 45px;
+ color: black;
+ 
+}
+
+.button
+{
+    background-color: white;
+    color: white;
+    border: white solid;
+    border-radius: 25px;
+    font-size: 23px;
+    width: 200px;
+
+}
+
+a
+{
+    color: black;
+}
+.heading
+{
+
+    background: white;
+    border: white solid;
+    border-radius: 25px;
+    
+}

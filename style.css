@@ -1,0 +1,39 @@
+body
+{
+    background-size: cover;
+
+}
+
+.heading
+{
+    font-size: 23;
+    width: 100%;
+    margin: 0%;
+}
+canvas
+{
+    border: solid cyan;
+    border-radius: 25px;
+
+}
+
+#status
+{
+    font-size: 23px;
+}
+
+.button
+{
+    background-color: black;
+    color: white;
+    border: black solid;
+    border-radius: 10px;
+    font-size: 23px;
+    margin-left: 1200px;
+
+}
+
+a
+{
+    color: white;
+}
